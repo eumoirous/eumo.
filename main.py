@@ -180,7 +180,7 @@ async def help(ctx):
                   value='`e!ping` ﹕ to get eumos response time',
                   inline=False)
   embed.add_field(name='',
-                  value='e!remindme` ﹕ to set reminders',
+                  value='`e!remindme` ﹕ to set reminders',
                   inline=False)
   embed.add_field(name='',
                   value='`e!gentlereminder` ﹕ for kind messages',
